@@ -3,7 +3,7 @@
 return [
 	'custom' => [
 	    'email' => [
-	        'required' => '邮箱地址1不能为空！',
+	        'required' => '邮箱地址不能为空！',
 	    ],
 	],
 ];
